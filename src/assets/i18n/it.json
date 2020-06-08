@@ -1,0 +1,61 @@
+{
+    "language": {
+        "croatian": "croato",
+        "english": "inglese",
+        "italian": "italiano"
+    },
+    "navbar": {
+        "username": "nome utente",
+        "role": "il ruolo",
+        "login": "Applicazione",
+        "logout": "check-out"
+    },
+    "login": {
+        "title": "Applicazione",
+        "username": "nome utente",
+        "password": "parola d'ordine",
+        "loginButton": "Applicazione",
+        "loginError": "Accesso fallito! Controlla i dati e riprova."
+    },
+    "main": {
+        "studentsLink": "Studenti"
+    },
+    "404": {
+        "pageNotFoundMessage": "La pagina richiesta non è stata trovata",
+        "returnToHomepage": "Ritorna alla pagina iniziale"
+    },
+    "403":{
+        "pageForbiddenMessage": "Non hai il diritto di accedere alla pagina richiesta!",
+        "returnToHomepage":"Ritorna alla pagina iniziale"
+    },
+    "students": {
+        "title": "Elenco di studenti",
+        "create": "Aggiungi un nuovo studente",
+        "firstName": "Nome",
+        "lastName": "Cognome",
+        "details": "Dettagli",
+        "edit": "Modificare",
+        "delete": "Cancellazione",
+        "createTitle": "Aggiunta di un nuovo studente",
+        "editTitle": "Modifica dei dati degli studenti",
+        "form": {
+            "firstName": "Nome",
+            "firstNamePlaceHolder": "Inserisci un nome",
+            "lastName": "Cognome",
+            "lastNamePlaceholder": "Inserisci un cognome",
+            "jmbagPlaceholder": "Immettere il JMBAG",
+            "jmbagError": "Il JMBAG deve contenere 10 caratteri.",
+            "ects": "Numero di crediti ECTS",
+            "ectsPLaceholder": "Inserisci ECTS",
+            "cancle": "lasciar perdere",
+            "save": "Salva"
+        },
+        "detailsForm": {
+            "studentDetails": "Dettagli dello studente",
+            "tuitionPaymentMessage": "Lo studente deve pagare la quota di iscrizione",
+            "courses": "Corsi a cui è iscritto lo studente",
+            "notAttendingAnyCourse": "Lo studente non si è iscritto ad alcun corso",
+            "back": "Ritorno"
+        }
+    }
+}
